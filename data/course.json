@@ -1,0 +1,31 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "audience": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "finding-nemo"
+  },
+  "course_image": {
+    "content": "",
+    "website": "finding-nemo"
+  },
+  "course_title": "Finding Nemo",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This is a course about fishes.",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ANIM100",
+  "learning_resource_types": [],
+  "site_uid": "118b3567-5c4b-421b-aaee-d6357bb34d7e",
+  "site_short_id": "17.01-fall-2020",
+  "site_url_path": "courses/anim100-finding-nemo-fall-2020"
+}
