@@ -18,9 +18,9 @@ Yup, this is just a pgae<sup>2</sup> for fish
 
 {{< image-gallery >}}
 {{< image-gallery-item uuid="fb62ad0e-6cb3-4fce-b1ec-484d60565252" >}}
+{{< image-gallery-item uuid="36c04a78-e50d-4fad-be11-8ab0d142c8d4" >}}
 {{< image-gallery-item uuid="b6b02bc6-3e50-4b9d-8f5b-f77bc3e84171" >}}
 {{< image-gallery-item uuid="77c1a209-ef4b-4dbc-8ef3-5435099da863" >}}
-{{< image-gallery-item uuid="36c04a78-e50d-4fad-be11-8ab0d142c8d4" >}}
 {{< image-gallery-item uuid="473c644e-8c27-4c45-8617-10e7e92f9899" >}}
 {{< image-gallery-item uuid="f954cd18-ae70-4a25-8bf1-bd471f653a77" >}}
 {{< image-gallery-item uuid="c3b6f2c0-0e6b-4c35-b707-66552bc46e68" >}}
