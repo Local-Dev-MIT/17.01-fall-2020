@@ -3,7 +3,7 @@ audience: []
 body: ''
 content_type: resource
 draft: false
-file: /courses/anim100-finding-nemo-fall-2020/blackstripe-surgeonfish-12963.jpg
+file: /ol-ocw-studio-app-local/courses/anim100-finding-nemo-fall-2020/blackstripe-surgeonfish-12963.jpg
 file_size: 48080
 file_type: image/jpeg
 gdrive_url: ''

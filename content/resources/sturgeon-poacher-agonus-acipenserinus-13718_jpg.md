@@ -3,7 +3,7 @@ audience: []
 body: ''
 content_type: resource
 draft: false
-file: /courses/anim100-finding-nemo-fall-2020/sturgeon-poacher-agonus-acipenserinus-13718.jpg
+file: /ol-ocw-studio-app-local/courses/anim100-finding-nemo-fall-2020/sturgeon-poacher-agonus-acipenserinus-13718.jpg
 file_size: 55505
 file_type: image/jpeg
 gdrive_url: ''

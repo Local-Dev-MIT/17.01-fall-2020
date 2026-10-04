@@ -3,7 +3,7 @@ audience: []
 body: ''
 content_type: resource
 draft: false
-file: /courses/anim100-finding-nemo-fall-2020/download-4.jpeg
+file: /ol-ocw-studio-app-local/courses/anim100-finding-nemo-fall-2020/download-4.jpeg
 file_size: 4955
 file_type: image/jpeg
 gdrive_url: ''
