@@ -11,6 +11,8 @@ uid: 2f200a69-8cf4-4acf-83dd-fa2a888d49c7
 ---
 Gallery stress test: H{{< sub "2" >}}O and E = mc<sup>2</sup>, see {{% resource_link "43712d3a-92cf-48c1-8a22-54b9d59d6dd7" "the sturgeo" %}}
 
+ 
+
 {{< image-gallery baseUrl="/courses/anim100-finding-nemo-fall-2020/" >}}
 {{< image-gallery-item uuid="3eede54f-bfd5-4458-8f12-81362762cdbc" href="download-1.jpeg" text="The walls of our {{% resource_link \"c2956690-7ead-4f56-8282-fe998b987b00\" \"Technology-Enabled Active Learning classroom\" %}} are lined with whiteboards. There are twelve projectors with screens distributed around the classroom. In between screens, cameras are positioned to capture activity at the white boards. The cameras allowed us to live-stream the activity at a whiteboard to the screens. When lecturing, we used either twelve screens to display the current slide, or six screens for slides and six screens to show the instructor speaking and writing at a whiteboard. This way, all students had a clear view of the slides, instructor, and whiteboard.  We encouraged student participation during lecture snippets by frequently asking questions and eagerly discussing questions posed by students." >}}
 {{< image-gallery-item uuid="36c04a78-e50d-4fad-be11-8ab0d142c8d4" href="scissortail-sergeant-major-12939.jpg" text="Manually manipulated image of Niépce's \"View from the Window at Le Gras.\" Image is in the public domain. Source: {{% resource_link \"fab26397-476a-4efa-be85-9d182bb6bc94\" \"Wikimedia Commons\" %}}." >}}
