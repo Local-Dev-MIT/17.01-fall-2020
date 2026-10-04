@@ -8,7 +8,9 @@ file_size: 65608
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: This is just a caption
+  caption: 'Al-Aqmar Mosque: The central medallion above the entrance door with a
+    Qur''anic verse inscribed around the central ring, which contains the words "Muhammad"
+    and "\`Ali".'
   credit: ''
   image-alt: ''
 language: en

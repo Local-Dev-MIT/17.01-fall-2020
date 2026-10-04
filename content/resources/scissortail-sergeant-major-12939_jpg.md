@@ -3,12 +3,14 @@ audience: []
 body: ''
 content_type: resource
 draft: false
-file: /courses/anim100-finding-nemo-fall-2020/scissortail-sergeant-major-12939.jpg
+file: /ol-ocw-studio-app-local/courses/anim100-finding-nemo-fall-2020/scissortail-sergeant-major-12939.jpg
 file_size: 47531
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: ''
+  caption: "Manually manipulated image of Ni\xE9pce's \"View from the Window at Le\
+    \ Gras.\" Image is in the public domain. Source: {{% resource_link \"fab26397-476a-4efa-be85-9d182bb6bc94\"\
+    \ \"Wikimedia Commons\" %}}."
   credit: ''
   image-alt: ''
 language: ''

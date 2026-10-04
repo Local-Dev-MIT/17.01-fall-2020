@@ -3,12 +3,14 @@ audience: []
 body: ''
 content_type: resource
 draft: false
-file: /courses/anim100-finding-nemo-fall-2020/download-5.jpeg
+file: /ol-ocw-studio-app-local/courses/anim100-finding-nemo-fall-2020/download-5.jpeg
 file_size: 11215
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: ''
+  caption: 'Radiating acicular tourmaline crystals and tourmaline crystal in quartz:
+    NaMg{{< sub "3" >}}Al{{< sub "5" >}}B{{< sub "3" >}}Si{{< sub "6" >}}O{{< sub
+    "27" >}}(OH){{< sub "4" >}}.'
   credit: ''
   image-alt: ''
 language: ''

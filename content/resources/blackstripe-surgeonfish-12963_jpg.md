@@ -3,12 +3,15 @@ audience: []
 body: ''
 content_type: resource
 draft: false
-file: /courses/anim100-finding-nemo-fall-2020/blackstripe-surgeonfish-12963.jpg
+file: /ol-ocw-studio-app-local/courses/anim100-finding-nemo-fall-2020/blackstripe-surgeonfish-12963.jpg
 file_size: 48080
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: ''
+  caption: Student blackboard drawing. For the top diagram, the viewer \[left vertical
+    hash\] and the object \[right vertical hash\] stay fixed while the frame \[hash
+    with arrow\] is moved to the right. For the bottom diagram, the frame and the
+    viewer are moved to the left together while the object stays fixed.
   credit: ''
   image-alt: ''
 language: ''
