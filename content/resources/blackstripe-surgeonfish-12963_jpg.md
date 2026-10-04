@@ -8,10 +8,7 @@ file_size: 48080
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: Student blackboard drawing. For the top diagram, the viewer \[left vertical
-    hash\] and the object \[right vertical hash\] stay fixed while the frame \[hash
-    with arrow\] is moved to the right. For the bottom diagram, the frame and the
-    viewer are moved to the left together while the object stays fixed.
+  caption: ''
   credit: ''
   image-alt: ''
 language: ''

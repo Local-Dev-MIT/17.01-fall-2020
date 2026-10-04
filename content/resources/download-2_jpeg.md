@@ -8,14 +8,8 @@ file_size: 4704
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: "{{% resource_link \"f59f5e78-da35-4e61-a40a-92d1f77c70fe\" \"Till, or\
-    \ Shelf\" %}} - A mahogany shelf, in wooden presses, divided in two longitudinally,\
-    \ that clasps the hose, and causes it and the spindle to come down perpendicularly\
-    \ without any play.\r\n\r\n{{% resource_link \"d625c74d-9975-490c-809c-f5593c583cce\"\
-    \ \"Spindle\" %}} - The screw to which the bar of the press is affixed, and which\
-    \ produces the pressure on the platen.\r\n\r\n{{% resource_link \"4db1e0ee-219b-4828-a943-e62fe76aaec8\"\
-    \ \"Hose\" %}} - Two upright bars of iron that connected the garter and the hose\
-    \ hooks, and went through the till."
+  caption: "Dar al-\\`Adl gypsum twins: CaSO{{< sub \"4\" >}}\\-2H{{< sub \"2\" >}}O.\r\
+    \n\r\nSecond paragraph \u2014 \u201Cquoted\u201D typography."
   credit: ''
   image-alt: ''
 language: ''

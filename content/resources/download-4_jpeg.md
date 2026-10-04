@@ -8,7 +8,7 @@ file_size: 4955
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: 'Gypsum twins: CaSO{{< sub "4" >}}\-2H{{< sub "2" >}}O.'
+  caption: ''
   credit: ''
   image-alt: ''
 language: ''

@@ -8,9 +8,7 @@ file_size: 11215
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: 'Radiating acicular tourmaline crystals and tourmaline crystal in quartz:
-    NaMg{{< sub "3" >}}Al{{< sub "5" >}}B{{< sub "3" >}}Si{{< sub "6" >}}O{{< sub
-    "27" >}}(OH){{< sub "4" >}}.'
+  caption: ''
   credit: ''
   image-alt: ''
 language: ''

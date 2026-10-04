@@ -8,10 +8,7 @@ file_size: 3419
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: "Simulation deciding the winner by longest survival time.\r\n\r\nExplanations\
-    \ are provided, such as:\r\n\r\n*   You realize your vegetarian tendencies spending\
-    \ a plump and healthy existence grazing among the wild grasses. 127 generations.\r\
-    \n*   Beware the taller grasses, for within them lies the prairie cat. 16 years."
+  caption: ''
   credit: ''
   image-alt: ''
 language: ''

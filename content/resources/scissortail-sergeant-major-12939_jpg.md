@@ -8,9 +8,7 @@ file_size: 47531
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: "Manually manipulated image of Ni\xE9pce's \"View from the Window at Le\
-    \ Gras.\" Image is in the public domain. Source: {{% resource_link \"fab26397-476a-4efa-be85-9d182bb6bc94\"\
-    \ \"Wikimedia Commons\" %}}."
+  caption: ''
   credit: ''
   image-alt: ''
 language: ''

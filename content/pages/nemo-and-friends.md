@@ -26,6 +26,7 @@ Yup, this is just a pgae<sup>2</sup> for fish
 {{< image-gallery-item uuid="a804b3af-df54-4bb4-8149-67cd20707b57" href="blackstripe-surgeonfish-12963.jpg" text="" >}}
 {{< image-gallery-item uuid="fb62ad0e-6cb3-4fce-b1ec-484d60565252" href="download-4.jpeg" text="" >}}
 {{< image-gallery-item uuid="3eede54f-bfd5-4458-8f12-81362762cdbc" href="download-1.jpeg" text="" >}}
+{{< image-gallery-item uuid="473c644e-8c27-4c45-8617-10e7e92f9899" href="download-2.jpeg" text="Dar al-&grave;Adl gypsum twins: CaSO{{< sub 4 >}}\-2H{{< sub 2 >}}O.  Second paragraph — “quoted” typography." >}}
 {{< /image-gallery >}}
 
  

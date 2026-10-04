@@ -8,17 +8,7 @@ file_size: 5101
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: "The walls of our {{% resource_link \"c2956690-7ead-4f56-8282-fe998b987b00\"\
-    \ \"Technology-Enabled Active Learning classroom\" %}} are lined with whiteboards.\
-    \ There are twelve projectors with screens distributed around the classroom. In\
-    \ between screens, cameras are positioned to capture activity at the white boards.\
-    \ The cameras allowed us to live-stream the activity at a whiteboard to the screens.\
-    \ When lecturing, we used either twelve screens to display the current slide,\
-    \ or six screens for slides and six screens to show the instructor speaking and\
-    \ writing at a whiteboard. This way, all students had a clear view of the slides,\
-    \ instructor, and whiteboard.\r\n\r\nWe encouraged student participation during\
-    \ lecture snippets by frequently asking questions and eagerly discussing questions\
-    \ posed by students."
+  caption: ''
   credit: ''
   image-alt: ''
 language: ''
