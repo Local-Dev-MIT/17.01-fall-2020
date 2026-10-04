@@ -9,7 +9,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 title: Test page for blacksmith
 uid: 1448ce91-e7be-4ae7-b263-211b9c79b576
 ---
-{{< image-gallery id="b317d232-7cc6-6820-6c4b-6116b31af7bc_nanogallery2" baseUrl="/courses/anim100-finding-nemo-fall-2020/" >}}
+{{< image-gallery id="b317d232-7cc6-6820-6c4b-6116b31af7bc_nanogallery2" baseUrl="/courses/3-a04-modern-blacksmithing-and-physical-metallurgy-fall-2008/" >}}
 {{< image-gallery-item uuid="a804b3af-df54-4bb4-8149-67cd20707b57" href="blackstripe-surgeonfish-12963.jpg" data-ngdesc="The first student project assignment was to make a bottle opener." text="The first student project assignment was to make a bottle opener." >}}
 {{< image-gallery-item uuid="36c04a78-e50d-4fad-be11-8ab0d142c8d4" href="scissortail-sergeant-major-12939.jpg" data-ngdesc="Start with a piece of bar stock 1/4x1, and put a notch in it 1.5 from the end." text="Start with a piece of bar stock 1/4x1, and put a notch in it 1.5 from the end." >}}
 {{< image-gallery-item uuid="c3b6f2c0-0e6b-4c35-b707-66552bc46e68" href="download-5.jpeg" data-ngdesc="Use a spring fuller to neck the material at that point down to 0.5 wide." text="Use a spring fuller to neck the material at that point down to 0.5 wide." >}}
