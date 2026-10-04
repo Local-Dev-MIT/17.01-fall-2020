@@ -8,8 +8,7 @@ file_size: 4704
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: "Dar al-\\`Adl gypsum twins: CaSO{{< sub \"4\" >}}\\-2H{{< sub \"2\" >}}O.\r\
-    \n\r\nSecond paragraph \u2014 \u201Cquoted\u201D typography."
+  caption: ''
   credit: ''
   image-alt: ''
 language: ''
