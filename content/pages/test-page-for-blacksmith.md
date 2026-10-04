@@ -15,4 +15,8 @@ uid: 1448ce91-e7be-4ae7-b263-211b9c79b576
 {{< image-gallery-item uuid="c3b6f2c0-0e6b-4c35-b707-66552bc46e68" href="download-5.jpeg" data-ngdesc="Use a spring fuller to neck the material at that point down to 0.5 wide." text="Use a spring fuller to neck the material at that point down to 0.5 wide." >}}
 {{< image-gallery-item uuid="43712d3a-92cf-48c1-8a22-54b9d59d6dd7" href="sturgeon-poacher-agonus-acipenserinus-13718.jpg" data-ngdesc="Use a spring fuller to neck the material at that point down to 0.5 wide." text="Use a spring fuller to neck the material at that point down to 0.5 wide." >}}
 {{< image-gallery-item uuid="77c1a209-ef4b-4dbc-8ef3-5435099da863" href="saddleback-clownfish-amphiprion-polymnus-08830.jpg" data-ngdesc="Hammer a taper into what will be the handle of your bottle opener, up to the area that was just fullered." text="Hammer a taper into what will be the handle of your bottle opener, up to the area that was just fullered." >}}
-{{</ image-gallery >}}
+{{< /image-gallery >}}
+
+ 
+
+Wow, Does this preserve stuff? I dunno' man?
