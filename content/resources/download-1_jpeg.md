@@ -8,10 +8,11 @@ file_size: 5101
 file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
-  caption: ''
+  caption: "Ok, this gonna be wild. Yeah. And CaSO<sub>4</sub>+SO<sup>1-x</sup> \_\
+    And also [https://foo.bar.com](https://foo.bar.com/) What else?"
   credit: ''
   image-alt: ''
-language: ''
+language: en
 learning_resource_types: []
 level: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
