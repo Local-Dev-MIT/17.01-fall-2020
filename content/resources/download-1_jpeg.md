@@ -9,7 +9,7 @@ file_type: image/jpeg
 gdrive_url: ''
 image_metadata:
   caption: "Ok, this gonna be wild. Yeah. And CaSO<sub>4</sub>+SO<sup>1-x</sup> \_\
-    And also [https://foo.bar.com](https://foo.bar.com/) What else?"
+    And also What else?"
   credit: ''
   image-alt: ''
 language: en
