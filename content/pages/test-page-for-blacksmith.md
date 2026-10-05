@@ -21,3 +21,10 @@ uid: 1448ce91-e7be-4ae7-b263-211b9c79b576
  
 
 Wow, Does this preserve stuff? I dunno' man?
+
+ 
+
+{{< image-gallery baseUrl="/courses/anim100-finding-nemo-fall-2020/" >}}
+{{< image-gallery-item uuid="3eede54f-bfd5-4458-8f12-81362762cdbc" href="download-1.jpeg" text="Ok, this gonna be wild. Yeah. And CaSO<sub>4</sub>+SO<sup>1-x</sup>  And also What else?" >}}
+{{< image-gallery-item uuid="fb62ad0e-6cb3-4fce-b1ec-484d60565252" href="download-4.jpeg" text="" >}}
+{{< /image-gallery >}}
